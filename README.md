@@ -1,5 +1,5 @@
 <h1 align="center">
-  FaceTunes
+  Image Colorization
  </h1><br>
 
  Image Colorization is a deep learning project that aims to add color to grayscale images. This challenging task involves understanding the image's context and mapping the grayscale to corresponding color values.
